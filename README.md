@@ -2,6 +2,8 @@
 
 Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied applications)
 
+![Research Topics in Spatial-Visual Reasoning](wordclound.png)
+
 ## Image
 
 1. [arxiv 2505] One RL to See Them All: Visual Triple Unified Reinforcement Learning [[Code](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)] [[Dataset](https://huggingface.co/datasets/One-RL-to-See-Them-All/Orsta-Data-47k)] 
@@ -224,4 +226,3 @@ If you find this repository useful for your research and applications, please st
   note={Github Repository},
 }
 ```
-
