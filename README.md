@@ -2,7 +2,7 @@
 
 Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied applications)
 
-![Research Topics in Spatial-Visual Reasoning](wordclound.png)
+![Research Topics in Spatial-Visual Reasoning](wordcloud.png)
 
 ## Image
 
