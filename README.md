@@ -159,22 +159,22 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 
 ## Code will be released soon
 
-1. Improved Visual-Spatial Reasoning via R1-Zero-Like Training [[Code will be released soon](https://github.com/zhijie-group/R1-Zero-VSI)]
-2. WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning [[Code will be released soon](https://github.com/weizhepei/WebAgent-R1)]
-3. InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[Code will be released soon](https://github.com/saidwivedi/InteractVLM)]
-4. VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank  [[Code will be released soon](https://github.com/TianheWu/VisualQuality-R1)]
-5. Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models  [[Code will be released soon](https://visual-program-distillation.github.io/)]
-6. [arxiv 2505] Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner [[Code will be released soon](https://github.com/Wenchuan-Zhang/Patho-R1)]
-7. [arxiv 2505] STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs   [[Code will be released soon](https://github.com/zongzhao23/star-r1)]
-8. [arxiv 2505] Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning   [[Code will be released soon](https://github.com/maifoundations/Visionary-R1)]
-9. [arxiv 2505] R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO [[Code will be released soon](https://github.com/HJYao00/R1-ShareVL)]
-10. [arxiv 2505] Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL [[Code will be released soon](https://cof-reasoning.github.io/)]
-11. [arxiv 2505] Visual Planning: Let’s Think Only with Images [[Code will be released soon](https://github.com/yix8/VisualPlanning)]
-12. [arxiv 2505] X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains [[Code will be released soon](https://github.com/microsoft/x-reasoner)]
-13. [arxiv 2504] Fast-Slow Thinking for Large Vision-Language Model Reasoning [[Code will be released soon](https://github.com/Mr-Loevan/FAST)]
-14. [arxiv 2504] Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension [[Code will be released soon](https://github.com/HKUST-LongGroup/Relation-R1)]
-15. [arxiv 2503] Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[Code will be released soon](https://github.com/lwq20020127/Q-Insight)]
-16. [arxiv 2503] VisualThinker-R1-Zero: R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [[Code will be released soon](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)]
+1. [arxiv 2505] WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning [[Code will be released soon](https://github.com/weizhepei/WebAgent-R1)]
+2. [arxiv 2505] VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank [[Code will be released soon](https://github.com/TianheWu/VisualQuality-R1)]
+3. [arxiv 2505] Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner [[Code will be released soon](https://github.com/Wenchuan-Zhang/Patho-R1)]
+4. [arxiv 2505] STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs   [[Code will be released soon](https://github.com/zongzhao23/star-r1)]
+5. [arxiv 2505] Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning   [[Code will be released soon](https://github.com/maifoundations/Visionary-R1)]
+6. [arxiv 2505] R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO [[Code will be released soon](https://github.com/HJYao00/R1-ShareVL)]
+7. [arxiv 2505] Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL [[Code will be released soon](https://cof-reasoning.github.io/)]
+8. [arxiv 2505] Visual Planning: Let’s Think Only with Images [[Code will be released soon](https://github.com/yix8/VisualPlanning)]
+9. [arxiv 2505] X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains [[Code will be released soon](https://github.com/microsoft/x-reasoner)]
+10. [arxiv 2504] InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[Code will be released soon](https://github.com/saidwivedi/InteractVLM)]
+11. [arxiv 2504] Improved Visual-Spatial Reasoning via R1-Zero-Like Training [[Code will be released soon](https://github.com/zhijie-group/R1-Zero-VSI)]
+12. [arxiv 2504] Fast-Slow Thinking for Large Vision-Language Model Reasoning [[Code will be released soon](https://github.com/Mr-Loevan/FAST)]
+13. [arxiv 2504] Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension [[Code will be released soon](https://github.com/HKUST-LongGroup/Relation-R1)]
+14. [arxiv 2503] Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[Code will be released soon](https://github.com/lwq20020127/Q-Insight)]
+15. [arxiv 2503] VisualThinker-R1-Zero: R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [[Code will be released soon](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)]
+16. [arxiv 2312] Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models [[Code will be released soon](https://visual-program-distillation.github.io/)]
 
 
 
