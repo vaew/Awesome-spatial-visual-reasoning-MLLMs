@@ -49,24 +49,17 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 
 ## Video
 
-1. [arxiv 2505] Time-R1: Towards Comprehensive Temporal Reasoning in LLMs  [[Code](https://github.com/ulab-uiuc/Time-R1)] [[Dataset](https://huggingface.co/datasets/ulab-ai/Time-Bench)]
+1. [arxiv 2505] Time-R1: Towards Comprehensive Temporal Reasoning in LLMs  [[Code](https://github.com/ulab-uiuc/Time-R1)] [[Dataset](https://huggingface.co/datasets/ulab-ai/Time-Bench)]\
 2. [arxiv 2505] SpaceR: Reinforcing MLLMs in Video Spatial Reasoning [[Code]( https://github.com/OuyangKun10/SpaceR)] [[Dataset](https://huggingface.co/datasets/RUBBISHLIKE/SpaceR-151k)]
+3. [arxiv 2504] TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning [[Code](https://github.com/ZhangXJ199/TinyLLaVA-Video-R1)]
+4. [arxiv 2504] VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning [[Code](https://github.com/OpenGVLab/VideoChat-R1)]
+5. [arxiv 2504] Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning [[Code](https://github.com/OuyangKun10/Spatial-R1)]
+6. [arxiv 2504] R1-Zero-VSI: Improved Visual-Spatial Reasoning via R1-Zero-Like Training [[Code](https://github.com/zhijie-group/R1-Zero-VSI)]
+7. [arxiv 2503] SEED-Bench-R1: Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1 [[Code](https://github.com/TencentARC/SEED-Bench-R1)] [[Dataset](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1)]
+8. [arxiv 2503] Video-R1: Reinforcing Video Reasoning in MLLMs [[Code](https://github.com/tulerfeng/Video-R1)] [[Dataset](https://huggingface.co/datasets/Video-R1/Video-R1-data)] 
+9. [arxiv 2503] TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[Code](https://github.com/www-Ye/TimeZero)]
 
-2. [arxiv 2504] TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning [[Code](https://github.com/ZhangXJ199/TinyLLaVA-Video-R1)]
-
-3. [arxiv 2504] VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning [[Code](https://github.com/OpenGVLab/VideoChat-R1)]
-
-4. [arxiv 2504] Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning [[Code](https://github.com/OuyangKun10/Spatial-R1)]
-
-5. [arxiv 2504] R1-Zero-VSI: Improved Visual-Spatial Reasoning via R1-Zero-Like Training [[Code](https://github.com/zhijie-group/R1-Zero-VSI)]
-
-6. [arxiv 2503] SEED-Bench-R1: Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1 [[Code](https://github.com/TencentARC/SEED-Bench-R1)] [[Dataset](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1)]
-
-7. [arxiv 2503] Video-R1: Reinforcing Video Reasoning in MLLMs [[Code](https://github.com/tulerfeng/Video-R1)] [[Dataset](https://huggingface.co/datasets/Video-R1/Video-R1-data)] 
-
-8. [arxiv 2503] TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[Code](https://github.com/www-Ye/TimeZero)]
-
-
+   
 
 ## Embodied
 
@@ -109,9 +102,8 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 ## Medical
 
 1. [Arxiv 2503] Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models [[Code](https://github.com/Yuxiang-Lai117/Med-R1)]
-
-- [Arxiv 2502] MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[Code](https://huggingface.co/JZPeterPan/MedVLM-R1)]
-- [EMNLP'24 main] MedCoT: Medical Chain of Thought via Hierarchical Expert  [[Code](https://github.com/JXLiu-AI/MedCoT)]
+2. [Arxiv 2502] MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[Code](https://huggingface.co/JZPeterPan/MedVLM-R1)]
+3. [EMNLP'24 main] MedCoT: Medical Chain of Thought via Hierarchical Expert  [[Code](https://github.com/JXLiu-AI/MedCoT)]
 
 
 
@@ -127,9 +119,7 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 ### Multimodal Reward Model 
 
 1. [arxiv 2505] Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning [[Code](https://github.com/SkyworkAI/Skywork-R1V)]
-
 2. [arxiv 2505] UnifiedReward-Think: Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning [[Code](https://github.com/CodeGoat24/UnifiedReward)] [[Datasets](https://huggingface.co/collections/CodeGoat24/unifiedreward-training-data-67c300d4fd5eff00fa7f1ede)] 
-
 3. [arxiv 2505] R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning [[Code](https://github.com/yfzhang114/r1_reward)] [[Dataset](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL)]
 
 
@@ -154,21 +144,13 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 ## Foundation model for reasoning
 
 1. Qwen2.5-VL  [[Code](https://github.com/QwenLM/Qwen2.5-VL)]
-
 2. Bagel  [[Code](https://github.com/bytedance-seed/BAGEL)]
-
 3. BLIP3-o  [[Code](https://github.com/JiuhaiChen/BLIP3o)]
-
 4. Janus-Series: Unified Multimodal Understanding and Generation Models [[Code](https://github.com/deepseek-ai/Janus)]
-
 5. Kimi-VL  [[Code](https://github.com/MoonshotAI/Kimi-VL)]
-
 6. InternVL2-MPO [[Code](https://github.com/OpenGVLab/InternVL/tree/main/internvl_chat/shell/internvl2.0_mpo)]
-
 7. Bytedance ReFT
-
 8. Kimi-K1.5
-
 9. DeepSeek-R1
 
    
@@ -176,14 +158,13 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 ## Code will be released soon
 
 1. Improved Visual-Spatial Reasoning via R1-Zero-Like Training [[Code will be released soon](https://github.com/zhijie-group/R1-Zero-VSI)]
-
 2. WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning [[Code will be released soon](https://github.com/weizhepei/WebAgent-R1)]
 3. InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[Code will be released soon](https://github.com/saidwivedi/InteractVLM)]
 4. VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank  [[Code will be released soon](https://github.com/TianheWu/VisualQuality-R1)]
 5. Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models  [[Code will be released soon](https://visual-program-distillation.github.io/)]
 6. [arxiv 2505] Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner [[Code will be released soon](https://github.com/Wenchuan-Zhang/Patho-R1)]
 7. [arxiv 2505] STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs   [[Code will be released soon](https://github.com/zongzhao23/star-r1)]
-8.  [arxiv 2505] Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning   [[Code will be released soon](https://github.com/maifoundations/Visionary-R1)]
+8. [arxiv 2505] Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning   [[Code will be released soon](https://github.com/maifoundations/Visionary-R1)]
 9. [arxiv 2505] R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO [[Code will be released soon](https://github.com/HJYao00/R1-ShareVL)]
 10. [arxiv 2505] Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL [[Code will be released soon](https://cof-reasoning.github.io/)]
 11. [arxiv 2505] Visual Planning: Let’s Think Only with Images [[Code will be released soon](https://github.com/yix8/VisualPlanning)]
@@ -198,35 +179,23 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 ## Open-Source Projects (Repos without Paper)
 
 ### Training Framework
-
 * [EasyR1 💻](https://github.com/hiyouga/EasyR1)  ![EasyR1](https://img.shields.io/github/stars/hiyouga/EasyR1) 
 
 ### Image
-
 * [R1-V 💻](https://github.com/Deep-Agent/R1-V)  ![R1-V](https://img.shields.io/github/stars/Deep-Agent/R1-V) 
-
 * [Multimodal Open R1 💻](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)  ![Multimodal Open R1](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal)
-
 * [MMR1 💻](https://github.com/LengSicong/MMR1) ![LengSicong/MMR1](https://img.shields.io/github/stars/LengSicong/MMR1) 
-
 * [R1-Multimodal-Journey 💻](https://github.com/FanqingM/R1-Multimodal-Journey) ![R1-Multimodal-Journey](https://img.shields.io/github/stars/FanqingM/R1-Multimodal-Journey) 
-
 * [R1-Vision 💻](https://github.com/yuyq96/R1-Vision) ![R1-Vision](https://img.shields.io/github/stars/yuyq96/R1-Vision) 
-
 * [Ocean-R1 💻](https://github.com/VLM-RL/Ocean-R1)  ![Ocean-R1](https://img.shields.io/github/stars/VLM-RL/Ocean-R1) 
-
 * [R1V-Free 💻](https://github.com/Exgc/R1V-Free)  ![Exgc/R1V-Free](https://img.shields.io/github/stars/Exgc/R1V-Free)
-
 * [SeekWorld 💻](https://github.com/TheEighthDay/SeekWorld)  ![TheEighthDay/SeekWorld](https://img.shields.io/github/stars/TheEighthDay/SeekWorld) 
-
 * [R1-Track 💻](https://github.com/Wangbiao2/R1-Track)  ![Wangbiao2/R1-Track](https://img.shields.io/github/stars/Wangbiao2/R1-Track)
 
 ### Video
 
 * [Open R1 Video 💻](https://github.com/Wang-Xiaodong1899/Open-R1-Video) ![Open R1 Video](https://img.shields.io/github/stars/Wang-Xiaodong1899/Open-R1-Video) 
-
 * [Temporal-R1 💻](https://github.com/appletea233/Temporal-R1)  ![Temporal-R1](https://img.shields.io/github/stars/appletea233/Temporal-R1) 
-
 * [Open-LLaVA-Video-R1 💻](https://github.com/Hui-design/Open-LLaVA-Video-R1) ![Open-LLaVA-Video-R1](https://img.shields.io/github/stars/Hui-design/Open-LLaVA-Video-R1) 
 
 ### Agent 
@@ -255,3 +224,4 @@ If you find this repository useful for your research and applications, please st
   note={Github Repository},
 }
 ```
+
