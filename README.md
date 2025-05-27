@@ -103,8 +103,8 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 
 ## Medical
 
-1. [Arxiv 2503] Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models [[Code](https://github.com/Yuxiang-Lai117/Med-R1)]
-2. [Arxiv 2502] MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[Code](https://huggingface.co/JZPeterPan/MedVLM-R1)]
+1. [arxiv 2503] Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models [[Code](https://github.com/Yuxiang-Lai117/Med-R1)]
+2. [arxiv 2502] MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[Code](https://huggingface.co/JZPeterPan/MedVLM-R1)]
 3. [EMNLP'24 main] MedCoT: Medical Chain of Thought via Hierarchical Expert  [[Code](https://github.com/JXLiu-AI/MedCoT)]
 
 
