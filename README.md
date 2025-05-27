@@ -222,7 +222,7 @@ If you find this repository useful for your research and applications, please st
 ```
 @misc{Tang2025Awesome-spatial-visual-reasoning-MLLMs,
   title={Awesome-spatial-visual-reasoning-MLLMs},
-  author={Jing TAng},
+  author={Jing Tang},
   year={2025},
   howpublished={\url{https://github.com/vaew/Awesome-spatial-visual-reasoning-MLLMs}},
   note={Github Repository},
