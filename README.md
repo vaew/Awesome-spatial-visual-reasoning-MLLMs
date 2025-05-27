@@ -210,6 +210,7 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 
 1. https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs
 2. https://github.com/yaotingwangofficial/Awesome-MCoT
+3. https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln
 
 
 
