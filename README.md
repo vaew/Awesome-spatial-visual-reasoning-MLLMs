@@ -105,6 +105,7 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 33. [NIPS'24 Spotlight] ICAL: VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought [[Code](https://github.com/Gabesarch/ICAL)]
 34. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
 35. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
+36. [arxiv 2306,CoRL'23] REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction  [[Code](https://github.com/real-stanford/reflect)] [[Dataset](https://www.cs.columbia.edu/~liuzeyi/reflect_data/)]
 
 
 
@@ -229,7 +230,6 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 8. [arxiv 2505] Visual Planning: Let’s Think Only with Images [[Code will be released soon](https://github.com/yix8/VisualPlanning)]
 9. [arxiv 2505] X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains [[Code will be released soon](https://github.com/microsoft/x-reasoner)]
 10. [arxiv 2504] InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[Code will be released soon](https://github.com/saidwivedi/InteractVLM)]
-11. [arxiv 2504] Improved Visual-Spatial Reasoning via R1-Zero-Like Training [[Code will be released soon](https://github.com/zhijie-group/R1-Zero-VSI)]
 12. [arxiv 2504] Fast-Slow Thinking for Large Vision-Language Model Reasoning [[Code will be released soon](https://github.com/Mr-Loevan/FAST)]
 13. [arxiv 2504] Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension [[Code will be released soon](https://github.com/HKUST-LongGroup/Relation-R1)]
 14. [arxiv 2503] Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[Code will be released soon](https://github.com/lwq20020127/Q-Insight)]
@@ -283,6 +283,7 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 5. https://github.com/Songwxuan/Embodied-AI-Paper-TopConf
 6. https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List
 7. https://github.com/zubair-irshad/Awesome-Robotics-3D
+8. https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning
 
 
 
