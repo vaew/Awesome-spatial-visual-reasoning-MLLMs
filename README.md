@@ -170,10 +170,16 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 
 ## Embodied Environment
 
-1. Maniskill
-2. Issac Lab/Gym/Sim
-3. Genesis
-4. OmniGibson [[Document](https://behavior.stanford.edu/omnigibson/getting_started/installation.html)]
+1. Maniskill [[Code](https://github.com/haosulab/ManiSkill)]
+2. Issac Lab/Gym/Sim [[Code](https://github.com/isaac-sim/IsaacGymEnvs)]
+3. SimplerEnv [[Code](https://github.com/isaac-sim/IsaacGymEnvs)]
+4. Roboverse [[code](https://github.com/simpler-env/SimplerEnv)]
+5. Bullet Physics SDK [[code](https://github.com/bulletphysics/bullet3)]
+6. Genesis [[Code](https://github.com/Genesis-Embodied-AI/Genesis)]
+7. RoboTwin [[Code](https://github.com/TianxingChen/RoboTwin)]
+8. OmniGibson [[Document](https://behavior.stanford.edu/omnigibson/getting_started/installation.html)]
+9. Gazebo [[Link](https://gazebosim.org/)]
+10. CoppeliaSim (formerly known as V-REP)  [[Link](https://www.coppeliarobotics.com/)]
 
 
 
