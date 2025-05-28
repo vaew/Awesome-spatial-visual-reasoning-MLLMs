@@ -144,17 +144,18 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 ## Evaluation for reasoning ability
 
 1. [arxiv 2505] SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding  [[Code](https://github.com/haoningwu3639/SpatialScore)]
-2. [arxiv 2505] PhyX: Does Your Model Have the "Wits" for Physical Reasoning? [[Code](https://github.com/NastyMarcus/PhyX)] [[Dataset](https://huggingface.co/datasets/Cloudriver/PhyX)]
-3. [arxiv 2505] ReasonMap: Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps [[Code](https://github.com/fscdc/ReasonMap)]  [[Dataset](https://huggingface.co/datasets/FSCCS/ReasonMap)] 
-4. [arxiv 2504] VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models [[Dataset](https://huggingface.co/datasets/VisuLogic/VisuLogic)] [[Code](https://github.com/VisuLogic-Benchmark)] 
-5. [arxiv 2504] Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark [[Dataset](https://huggingface.co/datasets/Enxin/Video-MMLU)] [[Code](https://github.com/Espere-1119-Song/Video-MMLU)] 
-6. [arxiv 2504] VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning [[Dataset](https://huggingface.co/datasets/VLM-Reasoning/VCR-Bench)] [[Code](https://github.com/zhishuifeiqian/VCR-Bench)]
-7. [arxiv 2504] MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models [[Code](https://github.com/LanceZPF/MDK12)]
-8. [arxiv 2503] V1-33K: Toward Multimodal Reasoning by Designing Auxiliary Tasks [[Dataset](https://huggingface.co/datasets/haonan3/V1-33K)] [[Code](https://github.com/haonan3/V1)]
-9. [arxiv 2502] MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[Dataset](https://huggingface.co/datasets/huanqia/MM-IQ)] [[Code](https://github.com/AceCHQ/MMIQ)] 
-10. [arxiv 2502] MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [[Dataset](https://huggingface.co/datasets/CaraJ/MME-CoT)] [[Code](https://github.com/CaraJ7/MME-CoT)]
-11. [arxiv 2502] ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models [[Dataset](https://huggingface.co/datasets/jonathan-roberts1/zerobench)] [[Code](https://github.com/jonathan-roberts1/zerobench/)]
-12. [arxiv 2502] HumanEval-V: Benchmarking High-Level Visual Reasoning with Complex Diagrams in Coding Tasks [[Dataset](https://huggingface.co/datasets/HumanEval-V/HumanEval-V-Benchmark)] [[Code](https://github.com/HumanEval-V/HumanEval-V-Benchmark)]
+2. [arxiv 2505] EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video [[Dataset](https://ml-site.cdn-apple.com/datasets/egodex/test.zip)]
+3. [arxiv 2505] PhyX: Does Your Model Have the "Wits" for Physical Reasoning? [[Code](https://github.com/NastyMarcus/PhyX)] [[Dataset](https://huggingface.co/datasets/Cloudriver/PhyX)]
+4. [arxiv 2505] ReasonMap: Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps [[Code](https://github.com/fscdc/ReasonMap)]  [[Dataset](https://huggingface.co/datasets/FSCCS/ReasonMap)] 
+5. [arxiv 2504] VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models [[Dataset](https://huggingface.co/datasets/VisuLogic/VisuLogic)] [[Code](https://github.com/VisuLogic-Benchmark)] 
+6. [arxiv 2504] Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark [[Dataset](https://huggingface.co/datasets/Enxin/Video-MMLU)] [[Code](https://github.com/Espere-1119-Song/Video-MMLU)] 
+7. [arxiv 2504] VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning [[Dataset](https://huggingface.co/datasets/VLM-Reasoning/VCR-Bench)] [[Code](https://github.com/zhishuifeiqian/VCR-Bench)]
+8. [arxiv 2504] MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models [[Code](https://github.com/LanceZPF/MDK12)]
+9. [arxiv 2503] V1-33K: Toward Multimodal Reasoning by Designing Auxiliary Tasks [[Dataset](https://huggingface.co/datasets/haonan3/V1-33K)] [[Code](https://github.com/haonan3/V1)]
+10. [arxiv 2502] MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[Dataset](https://huggingface.co/datasets/huanqia/MM-IQ)] [[Code](https://github.com/AceCHQ/MMIQ)] 
+11. [arxiv 2502] MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [[Dataset](https://huggingface.co/datasets/CaraJ/MME-CoT)] [[Code](https://github.com/CaraJ7/MME-CoT)]
+12. [arxiv 2502] ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models [[Dataset](https://huggingface.co/datasets/jonathan-roberts1/zerobench)] [[Code](https://github.com/jonathan-roberts1/zerobench/)]
+13. [arxiv 2502] HumanEval-V: Benchmarking High-Level Visual Reasoning with Complex Diagrams in Coding Tasks [[Dataset](https://huggingface.co/datasets/HumanEval-V/HumanEval-V-Benchmark)] [[Code](https://github.com/HumanEval-V/HumanEval-V-Benchmark)]
 
 
 
