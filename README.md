@@ -66,25 +66,27 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 
 ## Embodied
 
-1. [arxiv 2505] AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving
-2. [arxiv 2505] SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning [[Code](https://github.com/yliu-cs/SSR)] [[Dataset](https://huggingface.co/collections/yliu-cs/ssr-682d44496b64e4edd94092bb)]
-3. [arxiv 2504, CVPR'25] InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[Code](https://github.com/kxfan2002/SophiaVL-R1)] [[Dataset](https://huggingface.co/datasets/bunny127/SophiaVL-R1-Thinking-156k)]
-4. [arxiv 2504] Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning  [[Code](https://github.com/EmbodiedCity/Embodied-R.code)] 
-5. [arxiv 2503] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[Code](https://github.com/zwq2018/embodied_reasoner)] [[Dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] 
-6. [arxiv 2503] LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? [[Code](https://github.com/Tangkexian/LEGO-Puzzles)] [[Dataset](https://huggingface.co/datasets/KexianTang/LEGO-Puzzles)]
-7. [arxiv 2503] MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[Code](https://github.com/PzySeere/MetaSpatial)] [[Dataset](https://huggingface.co/datasets/zhenyupan/3d_layout_reasoning)] 
-8. [arxiv 2503] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning [[Code](https://github.com/nvidia-cosmos/cosmos-reason1)] [[Dataset](https://huggingface.co/collections/nvidia/cosmos-reason1-67c9e926206426008f1da1b7)] 
-9. [arxiv 2502] SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation [[Code](https://github.com/qizekun/SoFar)] 
-10. [arxiv 2502] Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos
-11. [CVPR'24] ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation [[Code](https://github.com/clorislili/ManipLLM)] 
-12. [arxiv 2412] Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration [[Code](https://github.com/FrankZxShen/MCoCoNav)] 
-13. [arxiv 2412] Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [[Code will be released soon](https://zhoues.github.io/Code-as-Monitor/)]
-14. [CVPR'25 Highlight] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[Code will be released soon](https://github.com/pmj110119/OmniManip)]
-15. [arxiv 2407, CoRL'24] Robotic Control via Embodied Chain-of-Thought Reasoning [[Code](https://github.com/MichalZawalski/embodied-CoT/)]
-16. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
-17. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
-18. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
-19. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
+1. [arxiv 2505] VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[Code](https://github.com/GuanxingLu/vlarl)] 
+2. [arxiv 2505] AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving
+3. [arxiv 2505] SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning [[Code](https://github.com/yliu-cs/SSR)] [[Dataset](https://huggingface.co/collections/yliu-cs/ssr-682d44496b64e4edd94092bb)]
+4. [arxiv 2504, CVPR'25] InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[Code](https://github.com/kxfan2002/SophiaVL-R1)] [[Dataset](https://huggingface.co/datasets/bunny127/SophiaVL-R1-Thinking-156k)]
+5. [arxiv 2504] Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning  [[Code](https://github.com/EmbodiedCity/Embodied-R.code)] 
+6. [arxiv 2503] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[Code](https://github.com/zwq2018/embodied_reasoner)] [[Dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] 
+7. [arxiv 2503] LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? [[Code](https://github.com/Tangkexian/LEGO-Puzzles)] [[Dataset](https://huggingface.co/datasets/KexianTang/LEGO-Puzzles)]
+8. [arxiv 2503] MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[Code](https://github.com/PzySeere/MetaSpatial)] [[Dataset](https://huggingface.co/datasets/zhenyupan/3d_layout_reasoning)] 
+9. [arxiv 2503] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning [[Code](https://github.com/nvidia-cosmos/cosmos-reason1)] [[Dataset](https://huggingface.co/collections/nvidia/cosmos-reason1-67c9e926206426008f1da1b7)] 
+10. [arxiv 2502] ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[Code](https://github.com/cccedric/conrft)] 
+11. [arxiv 2502] SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation [[Code](https://github.com/qizekun/SoFar)] 
+12. [arxiv 2502] Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos
+13. [CVPR'24] ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation [[Code](https://github.com/clorislili/ManipLLM)] 
+14. [arxiv 2412] Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration [[Code](https://github.com/FrankZxShen/MCoCoNav)] 
+15. [arxiv 2412] Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [[Code will be released soon](https://zhoues.github.io/Code-as-Monitor/)]
+16. [CVPR'25 Highlight] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[Code will be released soon](https://github.com/pmj110119/OmniManip)]
+17. [arxiv 2407, CoRL'24] Robotic Control via Embodied Chain-of-Thought Reasoning [[Code](https://github.com/MichalZawalski/embodied-CoT/)]
+18. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
+19. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
+20. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
+21. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
 
 
 
@@ -143,19 +145,20 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 
 ## Evaluation for reasoning ability
 
-1. [arxiv 2505] SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding  [[Code](https://github.com/haoningwu3639/SpatialScore)]
-2. [arxiv 2505] EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video [[Dataset](https://ml-site.cdn-apple.com/datasets/egodex/test.zip)]
-3. [arxiv 2505] PhyX: Does Your Model Have the "Wits" for Physical Reasoning? [[Code](https://github.com/NastyMarcus/PhyX)] [[Dataset](https://huggingface.co/datasets/Cloudriver/PhyX)]
-4. [arxiv 2505] ReasonMap: Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps [[Code](https://github.com/fscdc/ReasonMap)]  [[Dataset](https://huggingface.co/datasets/FSCCS/ReasonMap)] 
-5. [arxiv 2504] VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models [[Dataset](https://huggingface.co/datasets/VisuLogic/VisuLogic)] [[Code](https://github.com/VisuLogic-Benchmark)] 
-6. [arxiv 2504] Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark [[Dataset](https://huggingface.co/datasets/Enxin/Video-MMLU)] [[Code](https://github.com/Espere-1119-Song/Video-MMLU)] 
-7. [arxiv 2504] VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning [[Dataset](https://huggingface.co/datasets/VLM-Reasoning/VCR-Bench)] [[Code](https://github.com/zhishuifeiqian/VCR-Bench)]
-8. [arxiv 2504] MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models [[Code](https://github.com/LanceZPF/MDK12)]
-9. [arxiv 2503] V1-33K: Toward Multimodal Reasoning by Designing Auxiliary Tasks [[Dataset](https://huggingface.co/datasets/haonan3/V1-33K)] [[Code](https://github.com/haonan3/V1)]
-10. [arxiv 2502] MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[Dataset](https://huggingface.co/datasets/huanqia/MM-IQ)] [[Code](https://github.com/AceCHQ/MMIQ)] 
-11. [arxiv 2502] MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [[Dataset](https://huggingface.co/datasets/CaraJ/MME-CoT)] [[Code](https://github.com/CaraJ7/MME-CoT)]
-12. [arxiv 2502] ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models [[Dataset](https://huggingface.co/datasets/jonathan-roberts1/zerobench)] [[Code](https://github.com/jonathan-roberts1/zerobench/)]
-13. [arxiv 2502] HumanEval-V: Benchmarking High-Level Visual Reasoning with Complex Diagrams in Coding Tasks [[Dataset](https://huggingface.co/datasets/HumanEval-V/HumanEval-V-Benchmark)] [[Code](https://github.com/HumanEval-V/HumanEval-V-Benchmark)]
+1. [arxiv 2505] RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction [[Code](https://github.com/MINT-SJTU/RoboFAC)]
+2. [arxiv 2505] SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding  [[Code](https://github.com/haoningwu3639/SpatialScore)]
+3. [arxiv 2505] EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video [[Dataset](https://ml-site.cdn-apple.com/datasets/egodex/test.zip)]
+4. [arxiv 2505] PhyX: Does Your Model Have the "Wits" for Physical Reasoning? [[Code](https://github.com/NastyMarcus/PhyX)] [[Dataset](https://huggingface.co/datasets/Cloudriver/PhyX)]
+5. [arxiv 2505] ReasonMap: Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps [[Code](https://github.com/fscdc/ReasonMap)]  [[Dataset](https://huggingface.co/datasets/FSCCS/ReasonMap)] 
+6. [arxiv 2504] VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models [[Dataset](https://huggingface.co/datasets/VisuLogic/VisuLogic)] [[Code](https://github.com/VisuLogic-Benchmark)] 
+7. [arxiv 2504] Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark [[Dataset](https://huggingface.co/datasets/Enxin/Video-MMLU)] [[Code](https://github.com/Espere-1119-Song/Video-MMLU)] 
+8. [arxiv 2504] VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning [[Dataset](https://huggingface.co/datasets/VLM-Reasoning/VCR-Bench)] [[Code](https://github.com/zhishuifeiqian/VCR-Bench)]
+9. [arxiv 2504] MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models [[Code](https://github.com/LanceZPF/MDK12)]
+10. [arxiv 2503] V1-33K: Toward Multimodal Reasoning by Designing Auxiliary Tasks [[Dataset](https://huggingface.co/datasets/haonan3/V1-33K)] [[Code](https://github.com/haonan3/V1)]
+11. [arxiv 2502] MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[Dataset](https://huggingface.co/datasets/huanqia/MM-IQ)] [[Code](https://github.com/AceCHQ/MMIQ)] 
+12. [arxiv 2502] MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [[Dataset](https://huggingface.co/datasets/CaraJ/MME-CoT)] [[Code](https://github.com/CaraJ7/MME-CoT)]
+13. [arxiv 2502] ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models [[Dataset](https://huggingface.co/datasets/jonathan-roberts1/zerobench)] [[Code](https://github.com/jonathan-roberts1/zerobench/)]
+14. [arxiv 2502] HumanEval-V: Benchmarking High-Level Visual Reasoning with Complex Diagrams in Coding Tasks [[Dataset](https://huggingface.co/datasets/HumanEval-V/HumanEval-V-Benchmark)] [[Code](https://github.com/HumanEval-V/HumanEval-V-Benchmark)]
 
 
 
