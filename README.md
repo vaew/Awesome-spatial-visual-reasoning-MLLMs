@@ -227,7 +227,6 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 ### Embodied
 
 * [OpenVLA 💻](https://github.com/openvla/openvla) ![EasyR1](https://img.shields.io/github/stars/openvla/openvla) 
-
 * [PI Series 💻](https://github.com/Physical-Intelligence/openpi) ![PI Series](https://img.shields.io/github/stars/Physical-Intelligence/openpi)
 * [MiniVLA 💻](https://github.com/Stanford-ILIAD/openvla-mini) ![MiniVLA](https://img.shields.io/github/stars/Stanford-ILIAD/openvla-mini)
 
