@@ -90,13 +90,14 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 20. [arxiv 2412] Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [[Code will be released soon](https://zhoues.github.io/Code-as-Monitor/)]
 21. [CVPR'25 Highlight] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[Code will be released soon](https://github.com/pmj110119/OmniManip)]
 22. [arxiv 2407, CoRL'24] Robotic Control via Embodied Chain-of-Thought Reasoning [[Code](https://github.com/MichalZawalski/embodied-CoT/)]
-23. [arxiv 2405] ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Code](https://github.com/huangwl18/ReKep)]
-24. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
-25. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
-26. [RAL'24] GPT-4V(ision) for Robotics: Multimodal Task Planning From Human Demonstration
-27. [NIPS'24 Spotlight] VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought [[Code](https://github.com/Gabesarch/ICAL)]
-28. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
-29. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
+23. [arxiv 2406, CoRL'24] RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics [[Code](https://github.com/wentaoyuan/RoboPoint)] [[Dataset](https://huggingface.co/datasets/wentao-yuan/robopoint-data)]
+24. [arxiv 2405] ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Code](https://github.com/huangwl18/ReKep)]
+25. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
+26. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
+27. [RAL'24] GPT-4V(ision) for Robotics: Multimodal Task Planning From Human Demonstration
+28. [NIPS'24 Spotlight] ICAL: VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought [[Code](https://github.com/Gabesarch/ICAL)]
+29. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
+30. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
 
 
 
@@ -142,6 +143,7 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 2. [arxiv 2504] CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward [[Code](https://github.com/yeyimilk/CrowdVLM-R1)] [[Dataset](https://huggingface.co/datasets/yeyimilk/CrowdVLM-R1-data)] 
 3. [arxiv 2503] Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning [[Dataset](https://huggingface.co/datasets/Battam/3D-CoT)] 
 4. [arxiv 2503] Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement [[Code](https://github.com/dvlab-research/Seg-Zero)]
+5. [arxiv 2403, ECCV'24] DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM [[Code](https://github.com/yixuan730/DetToolChain)]
 
 
 
