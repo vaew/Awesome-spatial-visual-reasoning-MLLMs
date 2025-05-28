@@ -89,17 +89,11 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 
 1. [arxiv 2505] Omni-R1 (ZJU): Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration [[Code](https://github.com/aim-uofa/Omni-R1)]
 2. [arxiv 2505] Omni-R1 (MIT): Do You Really Need Audio to Fine-Tune Your Audio LLM?
-
 3. [arxiv 2505] EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning [[Dataset](https://huggingface.co/datasets/harryhsing/OmniInstruct_V1_AVQA_R1)] [[Code](https://github.com/HarryHsing/EchoInk)]
-
 4. [arxiv 2504] SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning
-
 5. [arxiv 2503] R1-AQA: Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [[Code](https://github.com/xiaomi-research/r1-aqa)]
-
 6. [arxiv 2503] Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models [[Code](https://github.com/xzf-thu/Audio-Reasoner)]
-
 7. [arxiv 2503] R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning  [[Code](https://github.com/HumanMLLM/R1-Omni)]
-
 
 
 ## Math
