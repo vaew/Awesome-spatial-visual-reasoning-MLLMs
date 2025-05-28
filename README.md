@@ -207,7 +207,15 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 ### Training Framework
 * [EasyR1 💻](https://github.com/hiyouga/EasyR1)  ![EasyR1](https://img.shields.io/github/stars/hiyouga/EasyR1) 
 
+### Embodied
+
+* [OpenVLA 💻](https://github.com/openvla/openvla) ![EasyR1](https://img.shields.io/github/stars/openvla/openvla) 
+
+* [PI Series 💻](https://github.com/Physical-Intelligence/openpi) ![PI Series](https://img.shields.io/github/stars/Physical-Intelligence/openpi)
+* [MiniVLA 💻](https://github.com/Stanford-ILIAD/openvla-mini) ![MiniVLA](https://img.shields.io/github/stars/Stanford-ILIAD/openvla-mini)
+
 ### Image
+
 * [R1-V 💻](https://github.com/Deep-Agent/R1-V)  ![R1-V](https://img.shields.io/github/stars/Deep-Agent/R1-V) 
 * [Multimodal Open R1 💻](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)  ![Multimodal Open R1](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal)
 * [MMR1 💻](https://github.com/LengSicong/MMR1) ![LengSicong/MMR1](https://img.shields.io/github/stars/LengSicong/MMR1) 
