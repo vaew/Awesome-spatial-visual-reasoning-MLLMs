@@ -87,10 +87,11 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 18. [arxiv 2412] Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [[Code will be released soon](https://zhoues.github.io/Code-as-Monitor/)]
 19. [CVPR'25 Highlight] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[Code will be released soon](https://github.com/pmj110119/OmniManip)]
 20. [arxiv 2407, CoRL'24] Robotic Control via Embodied Chain-of-Thought Reasoning [[Code](https://github.com/MichalZawalski/embodied-CoT/)]
-21. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
-22. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
-23. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
-24. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
+21. [arxiv 2405] ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Code](https://github.com/huangwl18/ReKep)]
+22. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
+23. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
+24. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
+25. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
 
 
 
@@ -167,6 +168,12 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 
 
 
+## Embodied Environment
+
+1. OmniGibson [[Document](https://behavior.stanford.edu/omnigibson/getting_started/installation.html)]
+
+
+
 ## Foundation model for reasoning
 
 1. Qwen2.5-VL  [[Code](https://github.com/QwenLM/Qwen2.5-VL)]
@@ -198,7 +205,8 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 13. [arxiv 2504] Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension [[Code will be released soon](https://github.com/HKUST-LongGroup/Relation-R1)]
 14. [arxiv 2503] Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[Code will be released soon](https://github.com/lwq20020127/Q-Insight)]
 15. [arxiv 2503] VisualThinker-R1-Zero: R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [[Code will be released soon](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)]
-16. [arxiv 2312] Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models [[Code will be released soon](https://visual-program-distillation.github.io/)]
+16. [arxiv 2402] PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs [[Code will be released soon](https://pivot-prompt.github.io/)]
+17. [arxiv 2312] Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models [[Code will be released soon](https://visual-program-distillation.github.io/)]
 
 
 
