@@ -46,8 +46,9 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 38. [arxiv 2501] Virgo: A Preliminary Exploration on Reproducing o1-like MLLM [[Code](https://github.com/RUCAIBox/Virgo)]
 39. [arxiv 2411] Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models [[Code](https://github.com/dongyh20/Insight-V)]
 40. [arxiv 2406, ICRA'25] SpatialBot: Precise Spatial Understanding with Vision Language Models  [[Code](https://github.com/BAAI-DCAI/SpatialBot)] [[Dataset](https://huggingface.co/datasets/RussRobin/SpatialQA)]
-41. [arxiv 2405, NAACL'25 main] VoCoT: Unleashing Visually Grounded Multi-Step Reasoning in Large Multi-Modal Models [[Code](https://github.com/RupertLuo/VoCoT)] [[Dataset](https://huggingface.co/datasets/luoruipu1/VoCoT)]
-42. [arxiv 2401,CVPR'24 main] SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities [[Code](https://github.com/remyxai/VQASynth)]
+41. [arxiv 2406, NIPS'24] SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models [[Code](https://github.com/AnjieCheng/SpatialRGPT)] [[Dataset](https://huggingface.co/datasets/a8cheng/OpenSpatialDataset)]
+42. [arxiv 2405, NAACL'25 main] VoCoT: Unleashing Visually Grounded Multi-Step Reasoning in Large Multi-Modal Models [[Code](https://github.com/RupertLuo/VoCoT)] [[Dataset](https://huggingface.co/datasets/luoruipu1/VoCoT)]
+43. [arxiv 2401,CVPR'24 main] SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities [[Code](https://github.com/remyxai/VQASynth)]
 
 
 
