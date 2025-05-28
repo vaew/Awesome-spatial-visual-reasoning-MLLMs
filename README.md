@@ -170,7 +170,10 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 
 ## Embodied Environment
 
-1. OmniGibson [[Document](https://behavior.stanford.edu/omnigibson/getting_started/installation.html)]
+1. Maniskill
+2. Issac Lab/Gym/Sim
+3. Genesis
+4. OmniGibson [[Document](https://behavior.stanford.edu/omnigibson/getting_started/installation.html)]
 
 
 
