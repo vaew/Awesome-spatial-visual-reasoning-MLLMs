@@ -94,8 +94,9 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 24. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
 25. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
 26. [RAL'24] GPT-4V(ision) for Robotics: Multimodal Task Planning From Human Demonstration
-27. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
-28. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
+27. [NIPS'24 Spotlight] VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought [[Code](https://github.com/Gabesarch/ICAL)]
+28. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
+29. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
 
 
 
