@@ -6,46 +6,47 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 
 ## Image
 
-1. [arxiv 2505] One RL to See Them All: Visual Triple Unified Reinforcement Learning [[Code](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)] [[Dataset](https://huggingface.co/datasets/One-RL-to-See-Them-All/Orsta-Data-47k)] 
-2. [arxiv 2505] DeepEyes: Incentivizing “Thinking with Images” via Reinforcement Learning [[Code](https://github.com/Visual-Agent/DeepEyes)] [[Dataset](https://huggingface.co/datasets/ChenShawn/DeepEyes-Datasets-47k)]
-3. [arxiv 2505] R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO [[Code](https://github.com/HJYao00/R1-ShareVL)]
-4. [arxiv 2505]  Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models [[Code](https://github.com/kokolerk/TON)] [[Datasets](https://huggingface.co/collections/kolerk/ton-682ad9038395c21e228a645b)]  
-5. [arxiv2505] Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning [[Datasets](https://huggingface.co/collections/TIGER-Lab/pixel-reasoner-682fe96ea946d10dda60d24e)] [[Code](https://github.com/TIGER-AI-Lab/Pixel-Reasoner)]
-6. [arxiv 2505] VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction [[Code](https://github.com/VITA-Group/VLM-3R)]
-7. [arxiv 2025] G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning [[Code](https://github.com/chenllliang/G1)]
-8. [arxiv 2505] SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward  [[Code](https://github.com/kxfan2002/SophiaVL-R1)] [[Dataset](https://huggingface.co/datasets/bunny127/SophiaVL-R1-Thinking-156k)]
-9. [arxiv 2505] VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning [[Code](https://github.com/dvlab-research/VisionReasoner)] [[Dataset](https://huggingface.co/datasets/Ricky06662/VisionReasoner_multi_object_7k_840)]
-10. [arxiv 2505] GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning [[Code](https://github.com/yueliu1999/GuardReasoner-VL)]
-11. [arxiv 2505] Multi-SpatialMLLM Multi-Frame Spatial Understanding with Multi-Modal Large Language Models  [[Code](https://github.com/facebookresearch/Multi-SpatialMLLM)] 
-12. [arxiv 2505] GRIT: Teaching MLLMs to Think with Images [[Code](https://github.com/eric-ai-lab/GRIT)] 
-13. [arxiv 2505] Visual Agentic Reinforcement Fine-Tuning [[Code](https://github.com/Liuziyu77/Visual-RFT)] [[Dataset](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)]
-14. [arxiv 2505] OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning  [[Code](https://github.com/zhaochen0110/OpenThinkIMG)] [[Dataset](https://huggingface.co/collections/Warrieryes/openthinkimg-68244a63e97a24d9b7ffcde9)]
-15. [arxiv 2504] Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning [[Code](https://github.com/SkyworkAI/Skywork-R1V)]
-16. [arxiv 2504] Perception-R1: Pioneering Perception Policy with Reinforcement Learning  [[Code](https://github.com/linkangheng/PR1)] [[Dataset](https://huggingface.co/collections/Kangheng/perception-r1-67f6b14f89d307a0ece985af)]
-17. [arxiv 2504] SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement  [[Code](https://github.com/si0wang/ThinkLite-VL)] [[Datasets](https://huggingface.co/collections/russwang/thinklite-vl-67f88c6493f8a7601e73fe5a)] 
-18. [arxiv 2504] VLM-R1: A stable and generalizable R1-style Large Vision-Language Model [[Code](https://github.com/om-ai-lab/VLM-R1)] [[Dataset](https://huggingface.co/datasets/omlab/VLM-R1)]
-19. [arxiv 2504] VLAA-Thinking: SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models [[Code](https://github.com/UCSC-VLAA/VLAA-Thinking)] [[Dataset](https://huggingface.co/datasets/UCSC-VLAA/VLAA-Thinking)]  
-20. [arxiv 2504] MAYE: Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme [[Code](https://github.com/GAIR-NLP/MAYE)] [[Dataset](https://huggingface.co/datasets/ManTle/MAYE)]  
-21. [arxiv 2504] R1-SGG: Compile Scene Graphs with Reinforcement Learning [[Code](https://github.com/gpt4vision/R1-SGG)]
-22. [arxiv 2504] NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation [[Code](https://github.com/John-AI-Lab/NoisyRollout)] [[Datasets](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2)]
-23. [arxiv 2504] VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning [[Code](https://github.com/TIGER-AI-Lab/VL-Rethinker)] [[Dataset](https://huggingface.co/datasets/TIGER-Lab/ViRL39K)] 
-24. [arxiv 2503] Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning  [[Code](https://github.com/tanhuajie/Reason-RFT)] [[Dataset](https://huggingface.co/datasets/tanhuajie2001/Reason-RFT-CoT-Dataset)]
-25. [arxiv 2503] MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning [[Code](https://github.com/ModalMinds/MM-EUREKA)] [[Dataset](https://huggingface.co/datasets/FanqingM/MM-Eureka-Dataset)]
-26. [arxiv 2503] Visual-RFT: Visual Reinforcement Fine-Tuning [[Code](https://github.com/Liuziyu77/Visual-RFT)] [[Datasets](https://huggingface.co/collections/laolao77/virft-datasets-67bc271b6f2833eccc0651df)] 
-27. [arxiv 2503] OpenVLThinker: An Early Exploration to Vision-Language Reasoning via Iterative Self-Improvement [[Code](https://github.com/yihedeng9/OpenVLThinker)]
-28. [arxiv 2503] Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning [[Code](https://github.com/minglllli/CLS-RL)] [[Datasets](https://huggingface.co/afdsafas)] 
-29. [arxiv 2503] R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization [[Code](https://github.com/jingyi0000/R1-VL)]
-30. [arxiv 2503] Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought [[Code](https://github.com/SkyworkAI/Skywork-R1V)]
-31. [arxiv 2503] R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [[Code](https://github.com/Fancy-MLLM/R1-Onevision)] [[Dataset](https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision)] 
-32. [arxiv 2503]VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [[Code](https://huggingface.co/OpenGVLab/VisualPRM-8B)]  [[Dataset](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K)]
-33. [arxiv 2503] LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL [[Code](https://github.com/TideDra/lmm-r1)]
-34. [arxiv 2503] Curr-ReFT: Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning [[Code](https://github.com/ding523/Curr_REFT)] [[Dataset](https://huggingface.co/datasets/ZTE-AIM/Curr-ReFT-data)] 
-35. [arxiv 2503] Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models [[Code](https://github.com/Osilly/Vision-R1)]
-36. [arxiv 2501] Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search [[Code](https://github.com/HJYao00/Mulberry)]
-37. [arxiv 2501] Virgo: A Preliminary Exploration on Reproducing o1-like MLLM [[Code](https://github.com/RUCAIBox/Virgo)]
-38. [arxiv 2411] Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models [[Code](https://github.com/dongyh20/Insight-V)]
-39. [arxiv 2406, ICRA'25] SpatialBot: Precise Spatial Understanding with Vision Language Models  [[Code](https://github.com/BAAI-DCAI/SpatialBot)] [[Dataset](https://huggingface.co/datasets/RussRobin/SpatialQA)]
-40. [arxiv 2405, NAACL'25 main] VoCoT: Unleashing Visually Grounded Multi-Step Reasoning in Large Multi-Modal Models [[Code](https://github.com/RupertLuo/VoCoT)] [[Dataset](https://huggingface.co/datasets/luoruipu1/VoCoT)]
+1. [arxiv 2505] Active-o3 : Empowering Multimodal Large Language Models with Active Perception via GRPO [[Code](https://github.com/aim-uofa/Active-o3)] 
+2. [arxiv 2505] One RL to See Them All: Visual Triple Unified Reinforcement Learning [[Code](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)] [[Dataset](https://huggingface.co/datasets/One-RL-to-See-Them-All/Orsta-Data-47k)] 
+3. [arxiv 2505] DeepEyes: Incentivizing “Thinking with Images” via Reinforcement Learning [[Code](https://github.com/Visual-Agent/DeepEyes)] [[Dataset](https://huggingface.co/datasets/ChenShawn/DeepEyes-Datasets-47k)]
+4. [arxiv 2505] R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO [[Code](https://github.com/HJYao00/R1-ShareVL)]
+5. [arxiv 2505]  Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models [[Code](https://github.com/kokolerk/TON)] [[Datasets](https://huggingface.co/collections/kolerk/ton-682ad9038395c21e228a645b)]  
+6. [arxiv2505] Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning [[Datasets](https://huggingface.co/collections/TIGER-Lab/pixel-reasoner-682fe96ea946d10dda60d24e)] [[Code](https://github.com/TIGER-AI-Lab/Pixel-Reasoner)]
+7. [arxiv 2505] VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction [[Code](https://github.com/VITA-Group/VLM-3R)]
+8. [arxiv 2025] G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning [[Code](https://github.com/chenllliang/G1)]
+9. [arxiv 2505] SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward  [[Code](https://github.com/kxfan2002/SophiaVL-R1)] [[Dataset](https://huggingface.co/datasets/bunny127/SophiaVL-R1-Thinking-156k)]
+10. [arxiv 2505] VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning [[Code](https://github.com/dvlab-research/VisionReasoner)] [[Dataset](https://huggingface.co/datasets/Ricky06662/VisionReasoner_multi_object_7k_840)]
+11. [arxiv 2505] GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning [[Code](https://github.com/yueliu1999/GuardReasoner-VL)]
+12. [arxiv 2505] Multi-SpatialMLLM Multi-Frame Spatial Understanding with Multi-Modal Large Language Models  [[Code](https://github.com/facebookresearch/Multi-SpatialMLLM)] 
+13. [arxiv 2505] GRIT: Teaching MLLMs to Think with Images [[Code](https://github.com/eric-ai-lab/GRIT)] 
+14. [arxiv 2505] Visual Agentic Reinforcement Fine-Tuning [[Code](https://github.com/Liuziyu77/Visual-RFT)] [[Dataset](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)]
+15. [arxiv 2505] OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning  [[Code](https://github.com/zhaochen0110/OpenThinkIMG)] [[Dataset](https://huggingface.co/collections/Warrieryes/openthinkimg-68244a63e97a24d9b7ffcde9)]
+16. [arxiv 2504] Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning [[Code](https://github.com/SkyworkAI/Skywork-R1V)]
+17. [arxiv 2504] Perception-R1: Pioneering Perception Policy with Reinforcement Learning  [[Code](https://github.com/linkangheng/PR1)] [[Dataset](https://huggingface.co/collections/Kangheng/perception-r1-67f6b14f89d307a0ece985af)]
+18. [arxiv 2504] SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement  [[Code](https://github.com/si0wang/ThinkLite-VL)] [[Datasets](https://huggingface.co/collections/russwang/thinklite-vl-67f88c6493f8a7601e73fe5a)] 
+19. [arxiv 2504] VLM-R1: A stable and generalizable R1-style Large Vision-Language Model [[Code](https://github.com/om-ai-lab/VLM-R1)] [[Dataset](https://huggingface.co/datasets/omlab/VLM-R1)]
+20. [arxiv 2504] VLAA-Thinking: SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models [[Code](https://github.com/UCSC-VLAA/VLAA-Thinking)] [[Dataset](https://huggingface.co/datasets/UCSC-VLAA/VLAA-Thinking)]  
+21. [arxiv 2504] MAYE: Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme [[Code](https://github.com/GAIR-NLP/MAYE)] [[Dataset](https://huggingface.co/datasets/ManTle/MAYE)]  
+22. [arxiv 2504] R1-SGG: Compile Scene Graphs with Reinforcement Learning [[Code](https://github.com/gpt4vision/R1-SGG)]
+23. [arxiv 2504] NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation [[Code](https://github.com/John-AI-Lab/NoisyRollout)] [[Datasets](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2)]
+24. [arxiv 2504] VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning [[Code](https://github.com/TIGER-AI-Lab/VL-Rethinker)] [[Dataset](https://huggingface.co/datasets/TIGER-Lab/ViRL39K)] 
+25. [arxiv 2503] Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning  [[Code](https://github.com/tanhuajie/Reason-RFT)] [[Dataset](https://huggingface.co/datasets/tanhuajie2001/Reason-RFT-CoT-Dataset)]
+26. [arxiv 2503] MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning [[Code](https://github.com/ModalMinds/MM-EUREKA)] [[Dataset](https://huggingface.co/datasets/FanqingM/MM-Eureka-Dataset)]
+27. [arxiv 2503] Visual-RFT: Visual Reinforcement Fine-Tuning [[Code](https://github.com/Liuziyu77/Visual-RFT)] [[Datasets](https://huggingface.co/collections/laolao77/virft-datasets-67bc271b6f2833eccc0651df)] 
+28. [arxiv 2503] OpenVLThinker: An Early Exploration to Vision-Language Reasoning via Iterative Self-Improvement [[Code](https://github.com/yihedeng9/OpenVLThinker)]
+29. [arxiv 2503] Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning [[Code](https://github.com/minglllli/CLS-RL)] [[Datasets](https://huggingface.co/afdsafas)] 
+30. [arxiv 2503] R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization [[Code](https://github.com/jingyi0000/R1-VL)]
+31. [arxiv 2503] Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought [[Code](https://github.com/SkyworkAI/Skywork-R1V)]
+32. [arxiv 2503] R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [[Code](https://github.com/Fancy-MLLM/R1-Onevision)] [[Dataset](https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision)] 
+33. [arxiv 2503]VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [[Code](https://huggingface.co/OpenGVLab/VisualPRM-8B)]  [[Dataset](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K)]
+34. [arxiv 2503] LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL [[Code](https://github.com/TideDra/lmm-r1)]
+35. [arxiv 2503] Curr-ReFT: Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning [[Code](https://github.com/ding523/Curr_REFT)] [[Dataset](https://huggingface.co/datasets/ZTE-AIM/Curr-ReFT-data)] 
+36. [arxiv 2503] Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models [[Code](https://github.com/Osilly/Vision-R1)]
+37. [arxiv 2501] Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search [[Code](https://github.com/HJYao00/Mulberry)]
+38. [arxiv 2501] Virgo: A Preliminary Exploration on Reproducing o1-like MLLM [[Code](https://github.com/RUCAIBox/Virgo)]
+39. [arxiv 2411] Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models [[Code](https://github.com/dongyh20/Insight-V)]
+40. [arxiv 2406, ICRA'25] SpatialBot: Precise Spatial Understanding with Vision Language Models  [[Code](https://github.com/BAAI-DCAI/SpatialBot)] [[Dataset](https://huggingface.co/datasets/RussRobin/SpatialQA)]
+41. [arxiv 2405, NAACL'25 main] VoCoT: Unleashing Visually Grounded Multi-Step Reasoning in Large Multi-Modal Models [[Code](https://github.com/RupertLuo/VoCoT)] [[Dataset](https://huggingface.co/datasets/luoruipu1/VoCoT)]
 
 
 
@@ -77,12 +78,13 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 10. [arxiv 2502] Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos
 11. [CVPR'24] ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation [[Code](https://github.com/clorislili/ManipLLM)] 
 12. [arxiv 2412] Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration [[Code](https://github.com/FrankZxShen/MCoCoNav)] 
-13. [CVPR'25 Highlight] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[Code will be released soon](https://github.com/pmj110119/OmniManip)]
-14. [arxiv 2407, CoRL'24] Robotic Control via Embodied Chain-of-Thought Reasoning [[Code](https://github.com/MichalZawalski/embodied-CoT/)]
-15. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
-16. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
-17. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
-18. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
+13. [arxiv 2412] Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [[Code will be released soon](https://zhoues.github.io/Code-as-Monitor/)]
+14. [CVPR'25 Highlight] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[Code will be released soon](https://github.com/pmj110119/OmniManip)]
+15. [arxiv 2407, CoRL'24] Robotic Control via Embodied Chain-of-Thought Reasoning [[Code](https://github.com/MichalZawalski/embodied-CoT/)]
+16. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
+17. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
+18. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
+19. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
 
 
 
@@ -226,6 +228,7 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 3. https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln
 4. https://modelscope.cn/studios/AI-ModelScope/awesome-reasoning
 5. https://github.com/Songwxuan/Embodied-AI-Paper-TopConf
+6. https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List
 
 
 
