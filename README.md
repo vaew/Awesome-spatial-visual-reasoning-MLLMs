@@ -51,7 +51,7 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 
 ## Video
 
-1. [arxiv 2505] Time-R1: Towards Comprehensive Temporal Reasoning in LLMs  [[Code](https://github.com/ulab-uiuc/Time-R1)] [[Dataset](https://huggingface.co/datasets/ulab-ai/Time-Bench)]\
+1. [arxiv 2505] Time-R1: Towards Comprehensive Temporal Reasoning in LLMs  [[Code](https://github.com/ulab-uiuc/Time-R1)] [[Dataset](https://huggingface.co/datasets/ulab-ai/Time-Bench)]
 2. [arxiv 2505] SpaceR: Reinforcing MLLMs in Video Spatial Reasoning [[Code]( https://github.com/OuyangKun10/SpaceR)] [[Dataset](https://huggingface.co/datasets/RUBBISHLIKE/SpaceR-151k)]
 3. [arxiv 2504] TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning [[Code](https://github.com/ZhangXJ199/TinyLLaVA-Video-R1)]
 4. [arxiv 2504] VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning [[Code](https://github.com/OpenGVLab/VideoChat-R1)]
