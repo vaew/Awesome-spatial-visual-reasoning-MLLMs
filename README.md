@@ -66,22 +66,23 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 ## Embodied
 
 1. [arxiv 2505] AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving
-2. [arxiv 2504, CVPR'25] InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[Code](https://github.com/kxfan2002/SophiaVL-R1)] [[Dataset](https://huggingface.co/datasets/bunny127/SophiaVL-R1-Thinking-156k)]
-3. [arxiv 2504] Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning  [[Code](https://github.com/EmbodiedCity/Embodied-R.code)] 
-4. [arxiv 2503] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[Code](https://github.com/zwq2018/embodied_reasoner)] [[Dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] 
-5. [arxiv 2503] LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? [[Code](https://github.com/Tangkexian/LEGO-Puzzles)] [[Dataset](https://huggingface.co/datasets/KexianTang/LEGO-Puzzles)]
-6. [arxiv 2503] MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[Code](https://github.com/PzySeere/MetaSpatial)] [[Dataset](https://huggingface.co/datasets/zhenyupan/3d_layout_reasoning)] 
-7. [arxiv 2503] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning [[Code](https://github.com/nvidia-cosmos/cosmos-reason1)] [[Dataset](https://huggingface.co/collections/nvidia/cosmos-reason1-67c9e926206426008f1da1b7)] 
-8. [arxiv 2502] SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation [[Code](https://github.com/qizekun/SoFar)] 
-9. [arxiv 2502] Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos
-10. [CVPR'24] ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation [[Code](https://github.com/clorislili/ManipLLM)] 
-11. [arxiv 2412] Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration [[Code](https://github.com/FrankZxShen/MCoCoNav)] 
-12. [CVPR'25 Highlight] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[Code will be released soon](https://github.com/pmj110119/OmniManip)]
-13. [arxiv 2407, CoRL'24] Robotic Control via Embodied Chain-of-Thought Reasoning [[Code](https://github.com/MichalZawalski/embodied-CoT/)]
-14. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
-15. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
-16. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
-17. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
+2. [arxiv 2505] SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning [[Code](https://github.com/yliu-cs/SSR)] [[Dataset](https://huggingface.co/collections/yliu-cs/ssr-682d44496b64e4edd94092bb)]
+3. [arxiv 2504, CVPR'25] InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[Code](https://github.com/kxfan2002/SophiaVL-R1)] [[Dataset](https://huggingface.co/datasets/bunny127/SophiaVL-R1-Thinking-156k)]
+4. [arxiv 2504] Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning  [[Code](https://github.com/EmbodiedCity/Embodied-R.code)] 
+5. [arxiv 2503] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[Code](https://github.com/zwq2018/embodied_reasoner)] [[Dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] 
+6. [arxiv 2503] LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? [[Code](https://github.com/Tangkexian/LEGO-Puzzles)] [[Dataset](https://huggingface.co/datasets/KexianTang/LEGO-Puzzles)]
+7. [arxiv 2503] MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[Code](https://github.com/PzySeere/MetaSpatial)] [[Dataset](https://huggingface.co/datasets/zhenyupan/3d_layout_reasoning)] 
+8. [arxiv 2503] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning [[Code](https://github.com/nvidia-cosmos/cosmos-reason1)] [[Dataset](https://huggingface.co/collections/nvidia/cosmos-reason1-67c9e926206426008f1da1b7)] 
+9. [arxiv 2502] SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation [[Code](https://github.com/qizekun/SoFar)] 
+10. [arxiv 2502] Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos
+11. [CVPR'24] ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation [[Code](https://github.com/clorislili/ManipLLM)] 
+12. [arxiv 2412] Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration [[Code](https://github.com/FrankZxShen/MCoCoNav)] 
+13. [CVPR'25 Highlight] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[Code will be released soon](https://github.com/pmj110119/OmniManip)]
+14. [arxiv 2407, CoRL'24] Robotic Control via Embodied Chain-of-Thought Reasoning [[Code](https://github.com/MichalZawalski/embodied-CoT/)]
+15. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
+16. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
+17. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
+18. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
 
 
 
