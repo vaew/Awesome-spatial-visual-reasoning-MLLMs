@@ -246,7 +246,8 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 18. [arxiv 2503] Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[Code will be released soon](https://github.com/lwq20020127/Q-Insight)]
 19. [arxiv 2503] VisualThinker-R1-Zero: R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [[Code will be released soon](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)]
 20. [arxiv 2402] PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs [[Code will be released soon](https://pivot-prompt.github.io/)]
-21. [arxiv 2312] Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models [[Code will be released soon](https://visual-program-distillation.github.io/)]
+21. [arxiv 2410] Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Spatial Reasoning
+22. [arxiv 2312] Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models [[Code will be released soon](https://visual-program-distillation.github.io/)]
 
 
 
