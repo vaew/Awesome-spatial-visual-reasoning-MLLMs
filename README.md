@@ -238,14 +238,15 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 10. [arxiv 2505] Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL [[Code will be released soon](https://cof-reasoning.github.io/)]
 11. [arxiv 2505] Visual Planning: Let’s Think Only with Images [[Code will be released soon](https://github.com/yix8/VisualPlanning)]
 12. [arxiv 2505] X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains [[Code will be released soon](https://github.com/microsoft/x-reasoner)]
-13. [arxiv 2504] InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[Code will be released soon](https://github.com/saidwivedi/InteractVLM)]
-14. [arxiv 2504] Fast-Slow Thinking for Large Vision-Language Model Reasoning [[Code will be released soon](https://github.com/Mr-Loevan/FAST)]
-15. [arxiv 2504] Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension [[Code will be released soon](https://github.com/HKUST-LongGroup/Relation-R1)]
-16. [arxiv 2503] Can Large Vision Language Models Read Maps Like a Human? [[Code will be released soon](https://github.com/taco-group/MapBench)]
-17. [arxiv 2503] Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[Code will be released soon](https://github.com/lwq20020127/Q-Insight)]
-18. [arxiv 2503] VisualThinker-R1-Zero: R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [[Code will be released soon](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)]
-19. [arxiv 2402] PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs [[Code will be released soon](https://pivot-prompt.github.io/)]
-20. [arxiv 2312] Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models [[Code will be released soon](https://visual-program-distillation.github.io/)]
+13. [arxiv 2504, ICRA'25] Chain-of-Modality: Learning Manipulation Programs from Multimodal Human Videos with Vision-Language-Models [[Code will be released soon](https://chain-of-modality.github.io/)]
+14. [arxiv 2504] InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[Code will be released soon](https://github.com/saidwivedi/InteractVLM)]
+15. [arxiv 2504] Fast-Slow Thinking for Large Vision-Language Model Reasoning [[Code will be released soon](https://github.com/Mr-Loevan/FAST)]
+16. [arxiv 2504] Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension [[Code will be released soon](https://github.com/HKUST-LongGroup/Relation-R1)]
+17. [arxiv 2503] Can Large Vision Language Models Read Maps Like a Human? [[Code will be released soon](https://github.com/taco-group/MapBench)]
+18. [arxiv 2503] Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[Code will be released soon](https://github.com/lwq20020127/Q-Insight)]
+19. [arxiv 2503] VisualThinker-R1-Zero: R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [[Code will be released soon](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)]
+20. [arxiv 2402] PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs [[Code will be released soon](https://pivot-prompt.github.io/)]
+21. [arxiv 2312] Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models [[Code will be released soon](https://visual-program-distillation.github.io/)]
 
 
 
