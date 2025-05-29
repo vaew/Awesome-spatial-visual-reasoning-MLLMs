@@ -43,16 +43,17 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 35. [arxiv 2503] LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL [[Code](https://github.com/TideDra/lmm-r1)]
 36. [arxiv 2503] Curr-ReFT: Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning [[Code](https://github.com/ding523/Curr_REFT)] [[Dataset](https://huggingface.co/datasets/ZTE-AIM/Curr-ReFT-data)] 
 37. [arxiv 2503] Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models [[Code](https://github.com/Osilly/Vision-R1)]
-38. [arxiv 2501] Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search [[Code](https://github.com/HJYao00/Mulberry)]
-39. [arxiv 2501] Virgo: A Preliminary Exploration on Reproducing o1-like MLLM [[Code](https://github.com/RUCAIBox/Virgo)]
-40. [arxiv 2411] Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models [[Code](https://github.com/dongyh20/Insight-V)]
-41. [arxiv 2406, ICRA'25] SpatialBot: Precise Spatial Understanding with Vision Language Models  [[Code](https://github.com/BAAI-DCAI/SpatialBot)] [[Dataset](https://huggingface.co/datasets/RussRobin/SpatialQA)]
-42. [arxiv 2406, NIPS'24] SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models [[Code](https://github.com/AnjieCheng/SpatialRGPT)] [[Dataset](https://huggingface.co/datasets/a8cheng/OpenSpatialDataset)]
-43. [NIPS'24] Right this way: Can VLMs Guide Us to See More to Answer Questions? [[Code](https://github.com/LeoLee7/Directional_guidance)] [[Dataset](https://huggingface.co/datasets/LeoLee7/Directional_Guidance)]
-44. [arxiv 2405, NAACL'25 main] VoCoT: Unleashing Visually Grounded Multi-Step Reasoning in Large Multi-Modal Models [[Code](https://github.com/RupertLuo/VoCoT)] [[Dataset](https://huggingface.co/datasets/luoruipu1/VoCoT)]
-45. [arxiv 2403] Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models [[Code](https://github.com/dongyh20/Chain-of-Spot)]
-46. [arxiv 2401,CVPR'24 main] SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities [[Code](https://github.com/remyxai/VQASynth)]
-47. [ACM MM'24] LLaVA-VSD: Large Language-and-Vision Assistant for Visual Spatial Description [[Code](https://github.com/LLLogen/VSDcode)] [[Dataset](https://huggingface.co/datasets/swordli/LLaVA-VSD-120K)]
+38. [arxiv 2502] Introducing Visual Perception Token into Multimodal Large Language Model [[Code](https://github.com/yu-rp/VisualPerceptionToken)]
+39. [arxiv 2501] Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search [[Code](https://github.com/HJYao00/Mulberry)]
+40. [arxiv 2501] Virgo: A Preliminary Exploration on Reproducing o1-like MLLM [[Code](https://github.com/RUCAIBox/Virgo)]
+41. [arxiv 2411] Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models [[Code](https://github.com/dongyh20/Insight-V)]
+42. [arxiv 2406, ICRA'25] SpatialBot: Precise Spatial Understanding with Vision Language Models  [[Code](https://github.com/BAAI-DCAI/SpatialBot)] [[Dataset](https://huggingface.co/datasets/RussRobin/SpatialQA)]
+43. [arxiv 2406, NIPS'24] SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models [[Code](https://github.com/AnjieCheng/SpatialRGPT)] [[Dataset](https://huggingface.co/datasets/a8cheng/OpenSpatialDataset)]
+44. [NIPS'24] Right this way: Can VLMs Guide Us to See More to Answer Questions? [[Code](https://github.com/LeoLee7/Directional_guidance)] [[Dataset](https://huggingface.co/datasets/LeoLee7/Directional_Guidance)]
+45. [arxiv 2405, NAACL'25 main] VoCoT: Unleashing Visually Grounded Multi-Step Reasoning in Large Multi-Modal Models [[Code](https://github.com/RupertLuo/VoCoT)] [[Dataset](https://huggingface.co/datasets/luoruipu1/VoCoT)]
+46. [arxiv 2403] Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models [[Code](https://github.com/dongyh20/Chain-of-Spot)]
+47. [arxiv 2401,CVPR'24 main] SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities [[Code](https://github.com/remyxai/VQASynth)]
+48. [ACM MM'24] LLaVA-VSD: Large Language-and-Vision Assistant for Visual Spatial Description [[Code](https://github.com/LLLogen/VSDcode)] [[Dataset](https://huggingface.co/datasets/swordli/LLaVA-VSD-120K)]
 
 
 
@@ -95,30 +96,32 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 17. [arxiv 2502] SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation [[Code](https://github.com/qizekun/SoFar)] 
 18. [arxiv 2502] Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos
 19. [arxiv 2501, RSS'25] SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models [[Code](https://github.com/SpatialVLA/SpatialVLA)] 
-20. [CVPR'24] ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation [[Code](https://github.com/clorislili/ManipLLM)] 
-21. [arxiv 2412] RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[Code](https://github.com/WayneMao/RoboMatrix)] [[Dataset](https://huggingface.co/datasets/WayneMao/RoboMatrix)]
-22. [arxiv 2412, RSS'25] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[Code](https://github.com/yang-zj1026/legged-loco)] 
-23. [arxiv 2412] Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration [[Code](https://github.com/FrankZxShen/MCoCoNav)] 
-24. [arxiv 2412] Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [[Code will be released soon](https://zhoues.github.io/Code-as-Monitor/)]
-25. [arxiv 2411, CVPR'25 Oral] RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics [[Code](https://github.com/NVlabs/RoboSpatial)] [[Dataset](https://huggingface.co/datasets/chanhee-luke/RoboSpatial-Home)]
-26. [arxiv 2410,CoRL'24] Scaling Robot Policy Learning via Zero-Shot Labeling with Foundation Models [[Code](https://github.com/intuitive-robots/NILS)] [[Dataset](https://huggingface.co/collections/holgerson/nils-datasets-671b4cc18750e04558d7f98f)]
-27. [arxiv 2410, ICLR'25] AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation [[Code](https://github.com/NVlabs/AHA)] 
-28. [CVPR'25 Highlight] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[Code will be released soon](https://github.com/pmj110119/OmniManip)]
-29. [arxiv 2407, CoRL'24] Robotic Control via Embodied Chain-of-Thought Reasoning [[Code](https://github.com/MichalZawalski/embodied-CoT/)]
-30. [arxiv 2406, CoRL'24] RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics [[Code](https://github.com/wentaoyuan/RoboPoint)] [[Dataset](https://huggingface.co/datasets/wentao-yuan/robopoint-data)]
-31. [arxiv 2406, EMNLP'24 main] TopViewRS: Vision-Language Models as Top-View Spatial Reasoners [[Code](https://github.com/cambridgeltl/topviewrs)] [[Dataset](https://huggingface.co/datasets/chengzu/topviewrs)]
-32. [arxiv 2406, ICLR'25] LLaRA: Supercharging Robot Learning Data for Vision-Language Policy [[Code](https://github.com/LostXine/LLaRA)]
-33. [arxiv 2405] ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Code](https://github.com/huangwl18/ReKep)]
-34. [arxiv 2403, NIPS'24] SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors [[Code](https://github.com/dannymcy/zeroshot_task_hallucination_code)]
-35. [arxiv 2402, COLING'24 main] Scaffolding Coordinates to Promote Vision-Language Coordination
+20. [ICLR'25] Vision Language Models are In-Context Value Learners [[Code will be released soon](https://generative-value-learning.github.io/)] 
+21. [CVPR'24] ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation [[Code](https://github.com/clorislili/ManipLLM)] 
+22. [arxiv 2412] RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[Code](https://github.com/WayneMao/RoboMatrix)] [[Dataset](https://huggingface.co/datasets/WayneMao/RoboMatrix)]
+23. [arxiv 2412, RSS'25] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[Code](https://github.com/yang-zj1026/legged-loco)] 
+24. [arxiv 2412] Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration [[Code](https://github.com/FrankZxShen/MCoCoNav)] 
+25. [arxiv 2412] Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [[Code will be released soon](https://zhoues.github.io/Code-as-Monitor/)]
+26. [arxiv 2411, CVPR'25 Oral] RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics [[Code](https://github.com/NVlabs/RoboSpatial)] [[Dataset](https://huggingface.co/datasets/chanhee-luke/RoboSpatial-Home)]
+27. [arxiv 2410,CoRL'24] Scaling Robot Policy Learning via Zero-Shot Labeling with Foundation Models [[Code](https://github.com/intuitive-robots/NILS)] [[Dataset](https://huggingface.co/collections/holgerson/nils-datasets-671b4cc18750e04558d7f98f)]
+28. [arxiv 2410, ICLR'25] AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation [[Code](https://github.com/NVlabs/AHA)] 
+29. [arxiv 2409, RAL'25] MotIF: Motion Instruction Fine-tuning [[Code](https://github.com/Minyoung1005/motif)]
+30. [CVPR'25 Highlight] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[Code will be released soon](https://github.com/pmj110119/OmniManip)]
+31. [arxiv 2407, CoRL'24] Robotic Control via Embodied Chain-of-Thought Reasoning [[Code](https://github.com/MichalZawalski/embodied-CoT/)]
+32. [arxiv 2406, CoRL'24] RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics [[Code](https://github.com/wentaoyuan/RoboPoint)] [[Dataset](https://huggingface.co/datasets/wentao-yuan/robopoint-data)]
+33. [arxiv 2406, EMNLP'24 main] TopViewRS: Vision-Language Models as Top-View Spatial Reasoners [[Code](https://github.com/cambridgeltl/topviewrs)] [[Dataset](https://huggingface.co/datasets/chengzu/topviewrs)]
+34. [arxiv 2406, ICLR'25] LLaRA: Supercharging Robot Learning Data for Vision-Language Policy [[Code](https://github.com/LostXine/LLaRA)]
+35. [arxiv 2405] ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Code](https://github.com/huangwl18/ReKep)]
+36. [arxiv 2403, NIPS'24] SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors [[Code](https://github.com/dannymcy/zeroshot_task_hallucination_code)]
+37. [arxiv 2402, COLING'24 main] Scaffolding Coordinates to Promote Vision-Language Coordination
     in Large Multi-Modal Models [[Code](https://github.com/THUNLP-MT/Scaffold)]
-36. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
-37. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
-38. [RAL'24] GPT-4V(ision) for Robotics: Multimodal Task Planning From Human Demonstration
-39. [NIPS'24 Spotlight] ICAL: VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought [[Code](https://github.com/Gabesarch/ICAL)]
-40. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
-41. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
-42. [arxiv 2306,CoRL'23] REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction  [[Code](https://github.com/real-stanford/reflect)] [[Dataset](https://www.cs.columbia.edu/~liuzeyi/reflect_data/)]
+38. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
+39. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
+40. [RAL'24] GPT-4V(ision) for Robotics: Multimodal Task Planning From Human Demonstration
+41. [NIPS'24 Spotlight] ICAL: VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought [[Code](https://github.com/Gabesarch/ICAL)]
+42. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
+43. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
+44. [arxiv 2306,CoRL'23] REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction  [[Code](https://github.com/real-stanford/reflect)] [[Dataset](https://www.cs.columbia.edu/~liuzeyi/reflect_data/)]
 
 
 
@@ -165,9 +168,10 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 1. [arxiv 2505] UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning [[Code](https://github.com/AMAP-ML/UniVG-R1)] [[Dataset](https://huggingface.co/datasets/GD-ML/UniVG-R1-data)] 
 2. [arxiv 2504] CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward [[Code](https://github.com/yeyimilk/CrowdVLM-R1)] [[Dataset](https://huggingface.co/datasets/yeyimilk/CrowdVLM-R1-data)] 
 3. [arxiv 2503] Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning [[Dataset](https://huggingface.co/datasets/Battam/3D-CoT)] 
-4. [arxiv 2503] Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement [[Code](https://github.com/dvlab-research/Seg-Zero)]
-5. [arxiv 2403, ECCV'24] DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM [[Code](https://github.com/yixuan730/DetToolChain)]
-6. [arxiv 2403, ECCV'24] Agent3D-Zero: An Agent for Zero-shot 3D Understanding
+4. [arxiv 2502, CVPR'25 Highlight] Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[Code](https://github.com/honda-research-institute/Anomaly-OneVision)]
+5. [arxiv 2503] Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement [[Code](https://github.com/dvlab-research/Seg-Zero)]
+6. [arxiv 2403, ECCV'24] DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM [[Code](https://github.com/yixuan730/DetToolChain)]
+7. [arxiv 2403, ECCV'24] Agent3D-Zero: An Agent for Zero-shot 3D Understanding
 
 
 
@@ -200,10 +204,11 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 17. [arxiv 2502] MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [[Dataset](https://huggingface.co/datasets/CaraJ/MME-CoT)] [[Code](https://github.com/CaraJ7/MME-CoT)]
 18. [arxiv 2502] ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models [[Dataset](https://huggingface.co/datasets/jonathan-roberts1/zerobench)] [[Code](https://github.com/jonathan-roberts1/zerobench/)]
 19. [arxiv 2502] HumanEval-V: Benchmarking High-Level Visual Reasoning with Complex Diagrams in Coding Tasks [[Dataset](https://huggingface.co/datasets/HumanEval-V/HumanEval-V-Benchmark)] [[Code](https://github.com/HumanEval-V/HumanEval-V-Benchmark)]
-20. [arxiv 2411] GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks [[Code](https://github.com/The-AI-Alliance/GEO-Bench-VLM)]
-21. [arxiv 2306] LIBERO:Benchmarking Knowledge Transfer for Lifelong Robot Learning [[Code](https://github.com/Lifelong-Robot-Learning/LIBERO)]
-22. [RAL'22 ] CALVIN: A benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks [[Code](https://github.com/mees/calvin)]
-23. [arxiv 2210, ICML'23] VIMA: General Robot Manipulation with Multimodal Prompts [[Dataset](https://huggingface.co/datasets/VIMA/VIMA-Data)] [[Code](https://github.com/vimalabs/VIMA)]
+20. [ICLR 2024 & ECCV 2024] The All-Seeing Projects: Towards Panoptic Visual Recognition&Understanding and General Relation Comprehension of the Open World [[Code](https://github.com/OpenGVLab/all-seeing)]
+21. [arxiv 2411] GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks [[Code](https://github.com/The-AI-Alliance/GEO-Bench-VLM)]
+22. [arxiv 2306] LIBERO:Benchmarking Knowledge Transfer for Lifelong Robot Learning [[Code](https://github.com/Lifelong-Robot-Learning/LIBERO)]
+23. [RAL'22 ] CALVIN: A benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks [[Code](https://github.com/mees/calvin)]
+24. [arxiv 2210, ICML'23] VIMA: General Robot Manipulation with Multimodal Prompts [[Dataset](https://huggingface.co/datasets/VIMA/VIMA-Data)] [[Code](https://github.com/vimalabs/VIMA)]
 
 
 
@@ -259,14 +264,17 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 16. [arxiv 2504] InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[Code will be released soon](https://github.com/saidwivedi/InteractVLM)]
 17. [arxiv 2504] Fast-Slow Thinking for Large Vision-Language Model Reasoning [[Code will be released soon](https://github.com/Mr-Loevan/FAST)]
 18. [arxiv 2504] Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension [[Code will be released soon](https://github.com/HKUST-LongGroup/Relation-R1)]
-19. [arxiv 2503] Can Large Vision Language Models Read Maps Like a Human? [[Code will be released soon](https://github.com/taco-group/MapBench)]
-20. [arxiv 2503] Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[Code will be released soon](https://github.com/lwq20020127/Q-Insight)]
-21. [arxiv 2503] VisualThinker-R1-Zero: R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [[Code will be released soon](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)]
-22. [arxiv 2402] PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs [[Code will be released soon](https://pivot-prompt.github.io/)]
-23. [arxiv 2410] Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Spatial Reasoning
-24. [arxiv 2406] RoboGolf: Mastering Real-World Minigolf with a Reflective Multi-Modality Vision-Language Model [[Code will be released soon](https://jity16.github.io/RoboGolf/)]
-25. [arxiv 2312] Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models [[Code will be released soon](https://visual-program-distillation.github.io/)]
-26. [ACM MM‘24] RAG-Guided Large Language Models for Visual Spatial Description with Adaptive Hallucination Corrector
+19. [arxiv 2504] Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation [[Code will be released soon](https://github.com/KAIST-Visual-AI-Group/APC-VLM)]
+20. [arxiv 2503] Can Large Vision Language Models Read Maps Like a Human? [[Code will be released soon](https://github.com/taco-group/MapBench)]
+21. [arxiv 2503] ST-VLM: Kinematic Instruction Tuning for Spatio-Temporal Reasoning in Vision-Language Models [[Code will be released soon](https://github.com/mlvlab/ST-VLM)]
+22. [arxiv 2503] Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[Code will be released soon](https://github.com/lwq20020127/Q-Insight)]
+23. [arxiv 2503] VisualThinker-R1-Zero: R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [[Code will be released soon](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)]
+24. [arxiv 2412] SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models [[Code will be released soon](https://arijitray.com/SAT/)]
+25. [arxiv 2410] Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Spatial Reasoning
+26. [arxiv 2406] RoboGolf: Mastering Real-World Minigolf with a Reflective Multi-Modality Vision-Language Model [[Code will be released soon](https://jity16.github.io/RoboGolf/)]
+27. [arxiv 2402] PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs [[Code will be released soon](https://pivot-prompt.github.io/)]
+28. [arxiv 2312] Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models [[Code will be released soon](https://visual-program-distillation.github.io/)]
+29. [ACM MM‘24] RAG-Guided Large Language Models for Visual Spatial Description with Adaptive Hallucination Corrector
 
 
 
