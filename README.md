@@ -91,59 +91,62 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 
 ## Embodied
 
-1. [arxiv 2505] InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning [[Code](https://github.com/Koorye/Inspire)] 
-2. [arxiv 2505] From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems [[Code will be released soon](https://github.com/xiuchao/InstructionGrounding)]
-3. [arxiv 2505] OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning [[Code](https://github.com/Fanqi-Lin/OneTwoVLA)] [[Dataset](https://huggingface.co/datasets/Richard-Nai/onetwovla-dataset)]
-4. [arxiv 2505] VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[Code](https://github.com/GuanxingLu/vlarl)] 
-5. [arxiv 2505] AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving
-6. [arxiv 2505] SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning [[Code](https://github.com/yliu-cs/SSR)] [[Dataset](https://huggingface.co/collections/yliu-cs/ssr-682d44496b64e4edd94092bb)]
-7. [arxiv 2504, CVPR'25] InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[Code](https://github.com/kxfan2002/SophiaVL-R1)] [[Dataset](https://huggingface.co/datasets/bunny127/SophiaVL-R1-Thinking-156k)]
-8. [arxiv 2504] Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning  [[Code](https://github.com/EmbodiedCity/Embodied-R.code)] 
-9. [arxiv 2504, CVPR'25] RoboGround: Robotic Manipulation with Grounded Vision-Language Priors   [[Code](https://github.com/ZzZZCHS/RoboGround)] [[Dataset](https://huggingface.co/datasets/ZzZZCHS/RoboGround_Data/tree/main)]
-10. [arxiv 2504] SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning [[Code](https://spatial-reasoner.github.io/)] 
-11. [arxiv 2504] RoboAct-CLIP: Video-Driven Pre-training of Atomic Action Understanding for Robotics
-12. [arxiv 2503] PhysVLM: Enabling Visual Language Models to Understand Robotic Physical
+1. [arxiv 2505] Learning 3D Persistent Embodied World Models
+2. [arxiv 2505] ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge [[Code will be released soon](https://chatvla-2.github.io/)]
+3. [arxiv 2505] Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents [[Code will be released soon](https://agentic-robot.github.io/)]
+4. [arxiv 2505] InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning [[Code](https://github.com/Koorye/Inspire)] 
+5. [arxiv 2505] From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems [[Code will be released soon](https://github.com/xiuchao/InstructionGrounding)]
+6. [arxiv 2505] OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning [[Code](https://github.com/Fanqi-Lin/OneTwoVLA)] [[Dataset](https://huggingface.co/datasets/Richard-Nai/onetwovla-dataset)]
+7. [arxiv 2505] VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[Code](https://github.com/GuanxingLu/vlarl)] 
+8. [arxiv 2505] AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving
+9. [arxiv 2505] SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning [[Code](https://github.com/yliu-cs/SSR)] [[Dataset](https://huggingface.co/collections/yliu-cs/ssr-682d44496b64e4edd94092bb)]
+10. [arxiv 2504, CVPR'25] InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[Code](https://github.com/kxfan2002/SophiaVL-R1)] [[Dataset](https://huggingface.co/datasets/bunny127/SophiaVL-R1-Thinking-156k)]
+11. [arxiv 2504] Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning  [[Code](https://github.com/EmbodiedCity/Embodied-R.code)] 
+12. [arxiv 2504, CVPR'25] RoboGround: Robotic Manipulation with Grounded Vision-Language Priors   [[Code](https://github.com/ZzZZCHS/RoboGround)] [[Dataset](https://huggingface.co/datasets/ZzZZCHS/RoboGround_Data/tree/main)]
+13. [arxiv 2504] SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning [[Code](https://spatial-reasoner.github.io/)] 
+14. [arxiv 2504] RoboAct-CLIP: Video-Driven Pre-training of Atomic Action Understanding for Robotics
+15. [arxiv 2503] PhysVLM: Enabling Visual Language Models to Understand Robotic Physical
     Reachability [[Code](https://github.com/unira-zwj/PhysVLM)] [[Dataset](https://huggingface.co/JettZhou/PhysVLM-Qwen2.5-3B)]
-13. [arxiv 2503, CVPR'25] CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models [[Code will be releasd soon](https://cot-vla.github.io/)] 
-14. [arxiv 2503] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[Code](https://github.com/zwq2018/embodied_reasoner)] [[Dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] 
-15. [arxiv 2503] LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? [[Code](https://github.com/Tangkexian/LEGO-Puzzles)] [[Dataset](https://huggingface.co/datasets/KexianTang/LEGO-Puzzles)]
-16. [arxiv 2503] MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[Code](https://github.com/PzySeere/MetaSpatial)] [[Dataset](https://huggingface.co/datasets/zhenyupan/3d_layout_reasoning)] 
-17. [arxiv 2503] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning [[Code](https://github.com/nvidia-cosmos/cosmos-reason1)] [[Dataset](https://huggingface.co/collections/nvidia/cosmos-reason1-67c9e926206426008f1da1b7)] 
-18. [arxiv 2502, ICRA'25] A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards [[Code](https://github.com/shivanshpatel35/IKER)]
-19. [ICRA'25] UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation  [[Code](https://gpt-affordance.github.io/)]
-20. [arxiv 2502] ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[Code](https://github.com/cccedric/conrft)] 
-21. [arxiv 2502] SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation [[Code](https://github.com/qizekun/SoFar)] 
-22. [arxiv 2502] Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos
-23. [arxiv 2502, ICLR'25] Predicate Hierarchies Improve Few-Shot State Classification [[Code](https://github.com/emilyzjin/phier)] 
-24. [arxiv 2501, RSS'25] SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models [[Code](https://github.com/SpatialVLA/SpatialVLA)] 
-25. [ICLR'25] Vision Language Models are In-Context Value Learners [[Code will be released soon](https://generative-value-learning.github.io/)] 
-26. [CVPR'24] ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation [[Code](https://github.com/clorislili/ManipLLM)] 
-27. [arxiv 2412] RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[Code](https://github.com/WayneMao/RoboMatrix)] [[Dataset](https://huggingface.co/datasets/WayneMao/RoboMatrix)]
-28. [arxiv 2412, RSS'25] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[Code](https://github.com/yang-zj1026/legged-loco)] 
-29. [arxiv 2412] Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration [[Code](https://github.com/FrankZxShen/MCoCoNav)] 
-30. [arxiv 2412] Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [[Code will be released soon](https://zhoues.github.io/Code-as-Monitor/)]
-31. [arxiv 2412, CVPR'25] 3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning [[Code](https://github.com/UMass-Embodied-AGI/3D-Mem)]
-32. [CoRL'24 LEAP workshop] SkillWrapper: Autonomously Learning Interpretable Skill Abstractions with Foundation Models [[Code](https://github.com/YzyLmc/skill_wrapper)]
-33. [arxiv 2411, CVPR'25 Oral] RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics [[Code](https://github.com/NVlabs/RoboSpatial)] [[Dataset](https://huggingface.co/datasets/chanhee-luke/RoboSpatial-Home)]
-34. [arxiv 2410,CoRL'24] Scaling Robot Policy Learning via Zero-Shot Labeling with Foundation Models [[Code](https://github.com/intuitive-robots/NILS)] [[Dataset](https://huggingface.co/collections/holgerson/nils-datasets-671b4cc18750e04558d7f98f)]
-35. [arxiv 2410, ICLR'25] AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation [[Code](https://github.com/NVlabs/AHA)] 
-36. [arxiv 2409, RAL'25] MotIF: Motion Instruction Fine-tuning [[Code](https://github.com/Minyoung1005/motif)]
-37. [CVPR'25 Highlight] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[Code will be released soon](https://github.com/pmj110119/OmniManip)]
-38. [arxiv 2407, CoRL'24] Robotic Control via Embodied Chain-of-Thought Reasoning [[Code](https://github.com/MichalZawalski/embodied-CoT/)]
-39. [arxiv 2406, CoRL'24] RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics [[Code](https://github.com/wentaoyuan/RoboPoint)] [[Dataset](https://huggingface.co/datasets/wentao-yuan/robopoint-data)]
-40. [arxiv 2406, EMNLP'24 main] TopViewRS: Vision-Language Models as Top-View Spatial Reasoners [[Code](https://github.com/cambridgeltl/topviewrs)] [[Dataset](https://huggingface.co/datasets/chengzu/topviewrs)]
-41. [arxiv 2406, ICLR'25] LLaRA: Supercharging Robot Learning Data for Vision-Language Policy [[Code](https://github.com/LostXine/LLaRA)]
-42. [arxiv 2405] ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Code](https://github.com/huangwl18/ReKep)]
-43. [arxiv 2403, NIPS'24] SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors [[Code](https://github.com/dannymcy/zeroshot_task_hallucination_code)]
-44. [arxiv 2402, COLING'24 main] Scaffolding Coordinates to Promote Vision-Language Coordination
+16. [arxiv 2503, CVPR'25] CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models [[Code will be releasd soon](https://cot-vla.github.io/)] 
+17. [arxiv 2503] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[Code](https://github.com/zwq2018/embodied_reasoner)] [[Dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] 
+18. [arxiv 2503] LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? [[Code](https://github.com/Tangkexian/LEGO-Puzzles)] [[Dataset](https://huggingface.co/datasets/KexianTang/LEGO-Puzzles)]
+19. [arxiv 2503] MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[Code](https://github.com/PzySeere/MetaSpatial)] [[Dataset](https://huggingface.co/datasets/zhenyupan/3d_layout_reasoning)] 
+20. [arxiv 2503] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning [[Code](https://github.com/nvidia-cosmos/cosmos-reason1)] [[Dataset](https://huggingface.co/collections/nvidia/cosmos-reason1-67c9e926206426008f1da1b7)] 
+21. [arxiv 2502, ICRA'25] A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards [[Code](https://github.com/shivanshpatel35/IKER)]
+22. [ICRA'25] UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation  [[Code](https://gpt-affordance.github.io/)]
+23. [arxiv 2502] ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[Code](https://github.com/cccedric/conrft)] 
+24. [arxiv 2502] SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation [[Code](https://github.com/qizekun/SoFar)] 
+25. [arxiv 2502] Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos
+26. [arxiv 2502, ICLR'25] Predicate Hierarchies Improve Few-Shot State Classification [[Code](https://github.com/emilyzjin/phier)] 
+27. [arxiv 2501, RSS'25] SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models [[Code](https://github.com/SpatialVLA/SpatialVLA)] 
+28. [ICLR'25] Vision Language Models are In-Context Value Learners [[Code will be released soon](https://generative-value-learning.github.io/)] 
+29. [CVPR'24] ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation [[Code](https://github.com/clorislili/ManipLLM)] 
+30. [arxiv 2412] RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[Code](https://github.com/WayneMao/RoboMatrix)] [[Dataset](https://huggingface.co/datasets/WayneMao/RoboMatrix)]
+31. [arxiv 2412, RSS'25] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[Code](https://github.com/yang-zj1026/legged-loco)] 
+32. [arxiv 2412] Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration [[Code](https://github.com/FrankZxShen/MCoCoNav)] 
+33. [arxiv 2412] Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [[Code will be released soon](https://zhoues.github.io/Code-as-Monitor/)]
+34. [arxiv 2412, CVPR'25] 3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning [[Code](https://github.com/UMass-Embodied-AGI/3D-Mem)]
+35. [CoRL'24 LEAP workshop] SkillWrapper: Autonomously Learning Interpretable Skill Abstractions with Foundation Models [[Code](https://github.com/YzyLmc/skill_wrapper)]
+36. [arxiv 2411, CVPR'25 Oral] RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics [[Code](https://github.com/NVlabs/RoboSpatial)] [[Dataset](https://huggingface.co/datasets/chanhee-luke/RoboSpatial-Home)]
+37. [arxiv 2410,CoRL'24] Scaling Robot Policy Learning via Zero-Shot Labeling with Foundation Models [[Code](https://github.com/intuitive-robots/NILS)] [[Dataset](https://huggingface.co/collections/holgerson/nils-datasets-671b4cc18750e04558d7f98f)]
+38. [arxiv 2410, ICLR'25] AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation [[Code](https://github.com/NVlabs/AHA)] 
+39. [arxiv 2409, RAL'25] MotIF: Motion Instruction Fine-tuning [[Code](https://github.com/Minyoung1005/motif)]
+40. [CVPR'25 Highlight] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[Code will be released soon](https://github.com/pmj110119/OmniManip)]
+41. [arxiv 2407, CoRL'24] Robotic Control via Embodied Chain-of-Thought Reasoning [[Code](https://github.com/MichalZawalski/embodied-CoT/)]
+42. [arxiv 2406, CoRL'24] RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics [[Code](https://github.com/wentaoyuan/RoboPoint)] [[Dataset](https://huggingface.co/datasets/wentao-yuan/robopoint-data)]
+43. [arxiv 2406, EMNLP'24 main] TopViewRS: Vision-Language Models as Top-View Spatial Reasoners [[Code](https://github.com/cambridgeltl/topviewrs)] [[Dataset](https://huggingface.co/datasets/chengzu/topviewrs)]
+44. [arxiv 2406, ICLR'25] LLaRA: Supercharging Robot Learning Data for Vision-Language Policy [[Code](https://github.com/LostXine/LLaRA)]
+45. [arxiv 2405] ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Code](https://github.com/huangwl18/ReKep)]
+46. [arxiv 2403, NIPS'24] SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors [[Code](https://github.com/dannymcy/zeroshot_task_hallucination_code)]
+47. [arxiv 2402, COLING'24 main] Scaffolding Coordinates to Promote Vision-Language Coordination
     in Large Multi-Modal Models [[Code](https://github.com/THUNLP-MT/Scaffold)]
-45. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
-46. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
-47. [RAL'24] GPT-4V(ision) for Robotics: Multimodal Task Planning From Human Demonstration
-48. [NIPS'24 Spotlight] ICAL: VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought [[Code](https://github.com/Gabesarch/ICAL)]
-49. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
-50. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
-51. [arxiv 2306,CoRL'23] REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction  [[Code](https://github.com/real-stanford/reflect)] [[Dataset](https://www.cs.columbia.edu/~liuzeyi/reflect_data/)]
+48. [arxiv 2305, NIPS'23 Spotlight] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [[Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/)]
+49. [CoRL'24] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[Code](https://github.com/H-Freax/ThinkGrasp)]
+50. [RAL'24] GPT-4V(ision) for Robotics: Multimodal Task Planning From Human Demonstration
+51. [NIPS'24 Spotlight] ICAL: VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought [[Code](https://github.com/Gabesarch/ICAL)]
+52. SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning
+53. Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning
+54. [arxiv 2306,CoRL'23] REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction  [[Code](https://github.com/real-stanford/reflect)] [[Dataset](https://www.cs.columbia.edu/~liuzeyi/reflect_data/)]
 
 
 
