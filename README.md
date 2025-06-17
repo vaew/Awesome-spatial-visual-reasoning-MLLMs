@@ -68,23 +68,14 @@ Repository for awesome spatial/visual reasoning MLLMs.  (focus more on embodied 
 ## Video
 
 1. [arxiv 2505] Time-R1: Towards Comprehensive Temporal Reasoning in LLMs  [[Code](https://github.com/ulab-uiuc/Time-R1)] [[Dataset](https://huggingface.co/datasets/ulab-ai/Time-Bench)]
-
 2. [arxiv 2505] SpaceR: Reinforcing MLLMs in Video Spatial Reasoning [[Code]( https://github.com/OuyangKun10/SpaceR)] [[Dataset](https://huggingface.co/datasets/RUBBISHLIKE/SpaceR-151k)]
-
 3. [arxiv 2504] TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning [[Code](https://github.com/ZhangXJ199/TinyLLaVA-Video-R1)]
-
 4. [arxiv 2504] VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning [[Code](https://github.com/OpenGVLab/VideoChat-R1)]
-
 5. [arxiv 2504] Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning [[Code](https://github.com/OuyangKun10/Spatial-R1)]
-
 6. [arxiv 2504] R1-Zero-VSI: Improved Visual-Spatial Reasoning via R1-Zero-Like Training [[Code](https://github.com/zhijie-group/R1-Zero-VSI)]
-
 7. [arxiv 2503] SEED-Bench-R1: Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1 [[Code](https://github.com/TencentARC/SEED-Bench-R1)] [[Dataset](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1)]
-
 8. [arxiv 2503] Video-R1: Reinforcing Video Reasoning in MLLMs [[Code](https://github.com/tulerfeng/Video-R1)] [[Dataset](https://huggingface.co/datasets/Video-R1/Video-R1-data)] 
-
 9. [arxiv 2503] TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[Code](https://github.com/www-Ye/TimeZero)]
-
 10. [arxiv 2412, CVPR'25] Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene
     Understanding [[Code](https://github.com/LaVi-Lab/Video-3D-LLM)] [[Dataset](https://huggingface.co/datasets/zd11024/Video-3D-LLM_data)] 
 
